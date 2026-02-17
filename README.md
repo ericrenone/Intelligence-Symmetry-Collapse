@@ -2,12 +2,7 @@
 # Symmetry-Driven Spatial Density (SDSD)
 
 
----
-
-## Core
-
-We develop a rigorous mathematical framework — **Symmetry-Driven Spatial Density
-(SDSD)** — in which deep learning is characterized as a stochastic geometric phase
+Deep learning is characterized as a stochastic geometric phase
 transition on a principal fiber bundle. Intelligence emerges not from loss minimization
 alone, but from the collapse of redundant symmetry orbits onto minimal-volume canonical
 manifolds. We formalize learning dynamics as a horizontal–vertical decomposition of an
